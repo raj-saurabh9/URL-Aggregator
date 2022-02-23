@@ -1,14 +1,15 @@
 .card {
     background-color: cornflowerblue;
     box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2);
-    max-width: 1000px;
+    max-width: 500px;
     margin: auto;
     text-align: center;
     padding: 0 10 0 0;
   }
 
+
   #dp
-  {
+  {   max-width: 50px;
       border-radius:3px;
       width : 10px;
   }
