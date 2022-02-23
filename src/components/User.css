@@ -1,0 +1,43 @@
+.card {
+    background-color: cornflowerblue;
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+    padding: 0 10 0 0;
+  }
+
+  #dp
+  {
+      border-radius:3px;
+      width : 10px;
+  }
+
+  #linkedin
+  {
+      margin-bottom :  10px;
+  }
+  #github
+  {
+      margin-bottom :  10px;
+  }
+  #insta
+  {
+      margin-bottom :  10px;
+  }
+  #add
+  {
+      margin-bottom :  20px;
+  }
+  #pp
+  {
+      margin-bottom :  10px;
+  }
+  .mb-3
+  {
+      margin-bottom :  10px;
+  }
+  #pp
+  {
+      margin-bottom :  10px;
+  }
